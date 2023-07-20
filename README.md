@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ErickRabocse
-- 👀 I’m interested in learning to create apps for our daily tasks. 
-- 🌱 I’m currently learning JS. 
+- 👀 I’m interested in improving my JS skills to create awesome apps. 
+- 🌱 I’m currently learning REACT. 
 - 💞️ I’m looking to collaborate on websites. 
 - 📫 You can reach me at: erickchavezescobar@gmail.com
 
